@@ -1,0 +1,19 @@
+{
+  "name": "@karboh/stop",
+  "version": "1.0.0",
+  "description": "Cross-browser `.stopPropagation`.",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlbohlmark/stop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlbohlmark/stop/issues"
+  },
+  "homepage": "https://github.com/karlbohlmark/stop#readme"
+}
